@@ -5,6 +5,7 @@ Mega repo of all the languages and skills I try to learn.
 Not language specific, tied to different websites or books.
 
 + [Reverse Engineering](./reversing/) 
++ [Hacking](./hacking/) 
 
 ## Languages
 Projects from programming language specific books and websites
