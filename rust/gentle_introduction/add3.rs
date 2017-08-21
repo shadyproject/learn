@@ -1,9 +1,8 @@
-// add1.rs
-
+//add3.rs
 fn main() {
-    let sum = 0;
+    let mut sum = 0.0;
     for i in 0..5 {
-        sum += i;
+        sum += i as f64;
     }
     println!("sum is {}", sum);
 }

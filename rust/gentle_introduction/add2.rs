@@ -1,7 +1,6 @@
-// add1.rs
-
+//add2.rs
 fn main() {
-    let sum = 0;
+    let mut sum = 0;
     for i in 0..5 {
         sum += i;
     }
