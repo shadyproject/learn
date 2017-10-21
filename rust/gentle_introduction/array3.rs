@@ -1,3 +1,4 @@
+//array3.rs
 fn main() {
     let ints = [1, 2, 3];
     let floats = [1.1, 2.1, 3.1];
