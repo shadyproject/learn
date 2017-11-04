@@ -8,7 +8,6 @@ fn main() {
     println!("first {} {}", first.is_some(), first.is_none());
     println!("first {}", first.unwrap());
 
-    let maybe_last = slice.get(5);
-    let last = maybe_last.unwrap_or(&-1);
+    let last = *slice.get(5).unwrap_or(&-1);
     println!("last: {}", last);
 }
