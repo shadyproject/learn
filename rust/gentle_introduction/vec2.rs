@@ -1,4 +1,4 @@
-//vec2.rs
+// vec2.rs
 fn dump(arr: &[i32]) {
     println!("arr is {:?}", arr);
 }
