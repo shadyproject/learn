@@ -1,0 +1,3 @@
+[submodule "rust/rust-book"]
+	path = rust/rust-book
+	url = git@github.com:shadyproject/rust-book.git
